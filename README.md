@@ -1,4 +1,4 @@
-# Application Development 2 - Lab 3
+# Application Development 2 - Lab 6
 
 This template repository is the starter project for App. Dev. 2 labs. Written in Flutter/Dart.
 
